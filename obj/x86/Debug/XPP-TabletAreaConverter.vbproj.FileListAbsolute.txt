@@ -1,0 +1,12 @@
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\bin\Debug\XPP-TabletAreaConverter.exe
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\bin\Debug\XPP-TabletAreaConverter.pdb
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\bin\Debug\XPP-TabletAreaConverter.xml
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\obj\x86\Debug\XPP_TabletAreaConverter.Form1.resources
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\obj\x86\Debug\XPP_TabletAreaConverter.Resources.resources
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\obj\x86\Debug\XPP-TabletAreaConverter.vbproj.GenerateResource.Cache
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\obj\x86\Debug\XPP-TabletAreaConverter.exe
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\obj\x86\Debug\XPP-TabletAreaConverter.xml
+C:\Users\gamea\AppData\Local\Temporary Projects\XPP-TabletAreaConverter\obj\x86\Debug\XPP-TabletAreaConverter.pdb
+C:\Users\gamea\documents\visual studio 2010\Projects\XPP-TabletAreaConverter\XPP-TabletAreaConverter\obj\x86\Debug\XPP-TabletAreaConverter.exe
+C:\Users\gamea\documents\visual studio 2010\Projects\XPP-TabletAreaConverter\XPP-TabletAreaConverter\obj\x86\Debug\XPP-TabletAreaConverter.xml
+C:\Users\gamea\documents\visual studio 2010\Projects\XPP-TabletAreaConverter\XPP-TabletAreaConverter\obj\x86\Debug\XPP-TabletAreaConverter.pdb
