@@ -44,6 +44,11 @@ Converts your tablet area from millimeters (mm) to *units* used by XP Pen driver
 
 6. Put those numbers on the XP Pen driver GUI.
 
+## Requirements
+- Functioning tablet
+- Windows operating system
+- Netframework 4+ (to latest version)
+
 ## FAQ
 
 1. How about X-Y Offsets?
