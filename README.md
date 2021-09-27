@@ -45,8 +45,8 @@ Converts your tablet area from millimeters (mm) to *units* used by XP Pen driver
 6. Put those numbers on the XP Pen driver GUI.
 
 ## Requirements
-- Functioning tablet
-- Windows operating system
+- Functioning "XP Pen" tablet
+- Windows 7+ operating system
 - Netframework 4+ (to latest version)
 
 ## FAQ
@@ -57,3 +57,7 @@ Converts your tablet area from millimeters (mm) to *units* used by XP Pen driver
    - No, I'm planning to create a simple converter so that I could skip doing these solving.
 3. From 2, any ETA?
    - Soon? IDK when I'll start making one, but it should only take about 10-30 minutes.
+   
+## Issue/s
+
+1. Looks Crappy - Of course, it's just a draft >_>
